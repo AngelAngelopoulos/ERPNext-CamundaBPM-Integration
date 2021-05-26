@@ -1,0 +1,9 @@
+version: 1.0
+provider:
+  name: openfaas
+  gateway: http://127.0.0.1
+functions:
+  send-message:
+    lang: node12
+    handler: ./send-message
+    image: angelsuminoe/send-message:latest

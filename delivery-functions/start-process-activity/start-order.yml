@@ -1,0 +1,10 @@
+version: 1.0
+provider:
+  name: openfaas
+  gateway: http://212.2.243.202:31112
+functions:
+  start-process:
+    lang: node12
+    handler: ./start-process
+    image: angelsuminoe/start-process:latest
+
