@@ -22,13 +22,16 @@ A javascript based API to communicate ERPNext with Camunda Zeebe and  use its Mi
 4. [Testing Functions](https://github.com/AngelAngelopoulos/ERP-BPM-integration/wiki/Testing-Functions)
 
 ### Workers & Messages
-1. [Creating a Worker]
-2. [Build a Message]
-
+1. [[Creating a Worker]]
+2. [[Build a Message]]
 
 ### Linking ERP Doctype to Workflow
-1. [ERP Client Scripts](https://github.com/AngelAngelopoulos/ERP-BPM-integration/wiki/ERP-Client-Scripts)
+1. [[ERP Client Scripts]]
 2. [[ERP Webhooks]]
 3. [[Testing Integration]]
 
+### Contributors
+1. [[Collaborators]]
+2. [[Partners]]
+3. [[Licence]]
 
