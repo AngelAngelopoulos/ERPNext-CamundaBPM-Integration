@@ -12,7 +12,7 @@ A javascript based API to communicate ERPNext with Camunda Zeebe and  use its Mi
 ### BPM Diagrams
 1. [Zeebe vs Camunda Modeler](https://github.com/AngelAngelopoulos/ERPNext-CamundaBPM-Integration/wiki/Zeebe-vs-Camunda-Modeler)
 2. [Creating a Diagram](https://github.com/AngelAngelopoulos/ERPNext-CamundaBPM-Integration/wiki/Creating-a-Diagram)
-3. [Exporting a Diagram](https://github.com/AngelAngelopoulos/ERPNext-CamundaBPM-Integration/wiki/Exporting-a-Diagram
+3. [Exporting a Diagram](https://github.com/AngelAngelopoulos/ERPNext-CamundaBPM-Integration/wiki/Exporting-a-Diagram)
 4. [Deploy a Diagram](https://github.com/AngelAngelopoulos/ERPNext-CamundaBPM-Integration/wiki/Deploy-a-Diagram)
 
 ### Zeebe Workflows
